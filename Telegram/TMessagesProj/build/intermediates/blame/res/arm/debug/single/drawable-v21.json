@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-v21/regbtn_states.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-v21/regbtn_states.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-v21/bar_selector_white.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-v21/bar_selector_white.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-v21/list_selector.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-v21/list_selector.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-v21/floating_states.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-v21/floating_states.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-v21/bar_selector_lock.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-v21/bar_selector_lock.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-v21/list_selector_white.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-v21/list_selector_white.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-v21/bar_selector_style.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-v21/bar_selector_style.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-v21/floating_user_states.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-v21/floating_user_states.xml"
+    }
+]

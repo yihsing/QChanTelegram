@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/net.hockeyapp.android/HockeySDK/4.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de63f5e5393ab9eaa9c7f2d572d06edbc8bf9af0">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/net.hockeyapp.android-HockeySDK-4.0.1_4059c957e88c9820eb579b43189fc7d4e91c4c5a.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/com.google.android.gms-play-services-basement-8.4.0_90bd06547dddd2bd1bbfe82814717e3a5f794b11.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/com.google.android.gms-play-services-gcm-8.4.0_4d2404b4ecfc6fb69c7c3775fdcdb14c040beee4.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/support-annotations-23.3.0_183410dc1de9790cd191ff8accb105233bcafceb.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/.gradle/caches/modules-2/files-2.1/com.googlecode.mp4parser/isoparser/1.0.6/2f9b0233a54d1fcbf84867b0e2518842cb0cd965/isoparser-1.0.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f9b0233a54d1fcbf84867b0e2518842cb0cd965">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/isoparser-1.0.6_ca9cb14bb86d7a3108dcc6813e3ab9b7eaedabea.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/7dede91c0c36b1265fc99c55283b90ed2be144c8/aspectjrt-1.8.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7dede91c0c36b1265fc99c55283b90ed2be144c8">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/aspectjrt-1.8.2_0ae813d437f0caf0a90e0180defd0e228880aeec.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/incremental-classes/arm/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee7df68fedf2fe6e2153dcba91584575041c54e6">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/instant-run-bootstrap_3bd4e91855827ccb6ecba932e821338e029ef5a2.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/com.android.support-support-v4-23.3.0_70bbeb157a2408e6c7848f63612c7c1f13d1e301.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/incremental-runtime-classes/arm/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78ae87e2fc8bf1f965b86e371808257f98cda95c">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/instant-run_d7d835a5952e4c7ae9495e110907c3c6a0fd7685.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/internal_impl-23.3.0_778dca5711d9ab7adfba46414f90e69502a62af2.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/com.google.android.gms-play-services-base-8.4.0_0c4c41b9f940c99f7d6e3a724b245321ae6673b7.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/com.google.android.gms-play-services-maps-8.4.0_1bfaaf13b170cfb8ae18a887a38a058ae36249ba.jar" />
+    </item>
+    <item
+        jar="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/pre-dexed/arm/debug/com.google.android.gms-play-services-measurement-8.4.0_c15894e0b7f7ac36bdede899e6f1e3fd6be9449d.jar" />
+    </item>
+
+</items>

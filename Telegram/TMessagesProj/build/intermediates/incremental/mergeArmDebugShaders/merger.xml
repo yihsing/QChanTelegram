@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/shaders"/></dataSet><dataSet config="arm"><source path="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/arm/shaders"/></dataSet><dataSet config="debug"><source path="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/debug/shaders"/></dataSet><dataSet config="armDebug"><source path="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/armDebug/shaders"/></dataSet></merger>

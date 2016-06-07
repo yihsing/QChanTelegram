@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/values-v16/bools.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            }
+        ]
+    }
+]

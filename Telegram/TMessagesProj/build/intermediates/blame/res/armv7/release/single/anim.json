@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/anim/no_animation.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/anim/popup_out.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/anim/popup_out.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/anim/icon_anim_fade_in.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/anim/icon_anim_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/anim/popup_in.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/anim/popup_in.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/anim/icon_anim_fade_out.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/anim/icon_anim_fade_out.xml"
+    }
+]

@@ -1,0 +1,1750 @@
+[
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/stickers_back_right.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/stickers_back_right.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_send2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_send2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_file.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_file.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/blur_radial_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/blur_radial_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/burn.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/burn.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_recent_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_recent_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/greydivider.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/greydivider.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/search_up.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/search_up.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ab_progress.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ab_progress.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/corner_out_tr.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/corner_out_tr.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/play_g.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/play_g.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/system.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/system.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photogif.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photogif.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/search_light_activated.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/search_light_activated.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/blur_radial.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/blur_radial.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/mic.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/mic.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_repeat1_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_repeat1_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_camera_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_camera_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_hide1_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_hide1_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/plus.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/plus.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_audio_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_audio_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_repeat_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_repeat_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/background_hd.jpg",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/background_hd.jpg"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/load_big.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/load_big.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/dialogs_halfcheck.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/dialogs_halfcheck.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pin.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pin.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_previous_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_previous_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_backspace_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_backspace_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/doc_actions_b.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/doc_actions_b.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_repeat.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_repeat.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_search.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_search.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/link.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/link.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/broadcast3.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/broadcast3.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/switch_to_on2.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/switch_to_on2.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/dialogs_check.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/dialogs_check.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_smile.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_smile.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_fwd_forward.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_fwd_forward.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/menu_broadcast.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/menu_broadcast.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/corner_out_br.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/corner_out_br.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/doccancel_g.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/doccancel_g.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/checkbig.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/checkbig.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/media_doc_pause.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/media_doc_pause.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_grid_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_grid_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/boxshadow.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/boxshadow.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/doc_green.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/doc_green.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_b_cancel_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_b_cancel_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/intro7.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/intro7.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/cats.jpg",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/cats.jpg"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/publish_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/publish_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/mic_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/mic_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/assign_manager.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/assign_manager.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/location2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/location2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photoload_g_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photoload_g_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tip4.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tip4.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_g.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_g.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/wall_selection.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/wall_selection.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_sticker.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_sticker.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_attach.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_attach.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_gallery_background.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_gallery_background.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/profile_list.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/profile_list.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/menu_contacts.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/menu_contacts.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photoload.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photoload.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/intro5.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/intro5.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_send1.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_send1.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/mute_blue.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/mute_blue.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/popup_fixed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/popup_fixed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_b_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_b_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/post_viewsg.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/post_viewsg.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/list_group.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/list_group.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_blur.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_blur.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_recent.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_recent.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/check_blue.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/check_blue.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/myloc_on.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/myloc_on.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_vignette.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_vignette.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_link.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_link.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/devices.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/devices.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/media_doc_yellow.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/media_doc_yellow.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/s_play_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/s_play_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/docload_b.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/docload_b.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/blur_linear.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/blur_linear.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_back_grey.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_back_grey.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_fp_40px.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_fp_40px.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_smile_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_smile_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_shuffle_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_shuffle_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_shuffle.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_shuffle.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_details.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_details.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_car_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_car_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photogif_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photogif_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_gallery_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_gallery_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_gif.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_gif.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/list_pressed_holo_light.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_out_selected.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_out_selected.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_video_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_video_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/greydivider_top.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/greydivider_top.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_lock_white.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_lock_white.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photo_tools.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photo_tools.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_curve.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_curve.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_send.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/menu_help.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/menu_help.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_backspace.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_backspace.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_file_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_file_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/admin_star2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/admin_star2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/videolapse.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/videolapse.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/share_round.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/share_round.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/stickers_back_left.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/stickers_back_left.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/regbtn2.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/regbtn2.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/play_big.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/play_big.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/header_shadow.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/header_shadow.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_tint.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_tint.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_highlights.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_highlights.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/btn_send_location_down.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/btn_send_location_down.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_action_pause.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_action_pause.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/book_channel.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/book_channel.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/notify_members_on.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/notify_members_on.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/lock_open.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/lock_open.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/s_play.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/s_play.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_video.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_video.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bottom_shadow.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bottom_shadow.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/broadcast4.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/broadcast4.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photocancel_g_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photocancel_g_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_flower_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_flower_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photocancel_g.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photocancel_g.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/system_loader.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/system_loader.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_warning.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_warning.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_shadows.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_shadows.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/dialogs_badge2.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/dialogs_badge2.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_action_next.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_action_next.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/search_gif.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/search_gif.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/intro4.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/intro4.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/docload_g.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/docload_g.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/s_pause.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/s_pause.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_msg_panel_smiles.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_msg_panel_smiles.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/menu_secret.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/menu_secret.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_attach3.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_attach3.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_b_load_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_b_load_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/media_doc_red.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/media_doc_red.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_keyboard2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_keyboard2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/passcode_logo.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/passcode_logo.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photo_crop.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photo_crop.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/circle_big.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/circle_big.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/menu_settings.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/menu_settings.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/search_web.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/search_web.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/nocover_big.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/nocover_big.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_contact_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_contact_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_keyboard_w.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_keyboard_w.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/doc_blue.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/doc_blue.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_bell_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_bell_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/miniplayer_play.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/miniplayer_play.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_other.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_other.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/channelintro.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/channelintro.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/media_doc_blue.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/media_doc_blue.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/blur_off.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/blur_off.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/greydivider_bottom.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/greydivider_bottom.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/media_doc_green.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/media_doc_green.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/sheet_shadow.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/sheet_shadow.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/layer_shadow.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/layer_shadow.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/nophotos.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/nophotos.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photocancel_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photocancel_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_car.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_car.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/stickercounter.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/stickercounter.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/play_b.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/play_b.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/location_g.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/location_g.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_directory.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_directory.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/book_user.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/book_user.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_warmth.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_warmth.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/docpause_b.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/docpause_b.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photocancel_b_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photocancel_b_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_action_previous.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_action_previous.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/numberpicker_selection_divider.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/numberpicker_selection_divider.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_hide1.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_hide1.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_fingerprint_error.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/generated/res/pngs/arm/debug/drawable-xxhdpi/ic_fingerprint_error.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/floating_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/floating_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/corner_in_tl.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/corner_in_tl.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/player.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/player.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_in_selected.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_in_selected.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_arrow_drop_down.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_arrow_drop_down.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pause_g_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pause_g_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/compose_panel.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/compose_panel.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_doc.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_doc.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/menu_newgroup.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/menu_newgroup.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/round_grey.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/round_grey.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/list_longpressed_holo_light.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/list_longpressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_out_photo_selected.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_out_photo_selected.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/stickers_back_arrow.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/stickers_back_arrow.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/header_timer.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/header_timer.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_rotate.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_rotate.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/media_doc_load.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/media_doc_load.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/header_timer2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/header_timer2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/map_pin.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/map_pin.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/playvideo_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/playvideo_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_close_white.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_close_white.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/corner_in_bl.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/corner_in_bl.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/miniplayer_pause.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/miniplayer_pause.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tooltip.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tooltip.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photo_text.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photo_text.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/search_dark.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/search_dark.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/floating_m.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/floating_m.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_out_photo.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_out_photo.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_send1_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_send1_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_keyboard_button.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_keyboard_button.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_keyboard_button_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_keyboard_button_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_grain.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_grain.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/sharedmedia.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/sharedmedia.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/book_bot.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/book_bot.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/corner_in_tr.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/corner_in_tr.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_enhance.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_enhance.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/dialogs_badge.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/dialogs_badge.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/floating3_profile.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/floating3_profile.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/post_views_w.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/post_views_w.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/doc_blue_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/doc_blue_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/navigate.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/navigate.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_done.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_done.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_flower.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_flower.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/mute_grey.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/mute_grey.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/s_pause_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/s_pause_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/doccancel_b.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/doccancel_b.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_new.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_new.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_b.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_b.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/scroll_tip.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/scroll_tip.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_g_load.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_g_load.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_g_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_g_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_b_cancel.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_b_cancel.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/playvideo.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/playvideo.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photocancel_b.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photocancel_b.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/selectphoto_large.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/selectphoto_large.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/video_actions.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/video_actions.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bluecounter.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bluecounter.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_fwd_copy.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_fwd_copy.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/check_profile.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/check_profile.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_music.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_music.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/blur_off_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/blur_off_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_sticker_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_sticker_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/btn_send_location_up.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/btn_send_location_up.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_file.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_file.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/rec.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/rec.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/intro2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/intro2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/cancel_big.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/cancel_big.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/search_down.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/search_down.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_lock_header.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_lock_header.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/foursquare.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/foursquare.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_g_cancel_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_g_cancel_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/play_b_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/play_b_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/list_circle.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/list_circle.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_out.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_out.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_location.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_location.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/floating.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/floating.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_action_play.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_hide2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_hide2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tip1.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tip1.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/menu_invite.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/menu_invite.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_clock_photo.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_clock_photo.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/doc_actions_g.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/doc_actions_g.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/contact_green.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/contact_green.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_settings.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_external_storage.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_external_storage.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/list_secret.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/list_secret.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/post_views_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/post_views_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_done_gray.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_done_gray.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/passcode_check.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/passcode_check.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_next_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_next_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_camera.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_camera.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_storage_gallery.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_storage_gallery.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/share_arrow.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/share_arrow.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_back.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_back.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photoload_g.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photoload_g.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/blur_linear_active.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/blur_linear_active.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/switch_track.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/switch_track.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/round_check2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/round_check2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_pause.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_pause.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/search_light.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/search_light.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/corner_out_tl.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/corner_out_tl.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/header_shadow_reverse.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/header_shadow_reverse.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_contact.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_contact.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_play_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_play_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_previous.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_previous.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/location_panel.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/location_panel.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_bell.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_bell.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/floating_pencil.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/floating_pencil.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/check_list.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/check_list.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/contact_blue.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/contact_blue.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/phone_grey.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/phone_grey.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_reply.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_reply.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_info.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_info.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_clock2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_clock2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pause_b.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pause_b.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/floating_message.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/floating_message.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_video.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_video.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_g_cancel.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_g_cancel.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photo_text2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photo_text2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/share.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/share.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/docpause_b_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/docpause_b_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/play_g_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/play_g_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/edit_cancel.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/edit_cancel.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/recorded.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/recorded.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/logo_avatar.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/logo_avatar.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_cropfix.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_cropfix.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/floating_camera.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/floating_camera.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/redcircle.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/redcircle.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/btnshadow.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/btnshadow.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/intro1.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/intro1.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/phone_activate.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/phone_activate.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/nocover.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/nocover.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/forward_blue.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/forward_blue.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/lock_close.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/lock_close.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/corner_in_br.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/corner_in_br.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/stickers_back_center.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/stickers_back_center.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_g_load_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_g_load_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/corner_out_bl.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/corner_out_bl.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_pause_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_pause_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/search_dark_activated.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/search_dark_activated.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/broadcast2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/broadcast2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/place_x.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/place_x.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_check_w.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_check_w.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/nocover_small.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/nocover_small.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_in_photo.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_in_photo.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/admin_star.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/admin_star.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/list_broadcast.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/list_broadcast.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_clock2_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_clock2_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/post_views.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/post_views.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_gallery.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_gallery.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tip3.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tip3.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photobadge.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photobadge.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/broadcast_w.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/broadcast_w.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_brightness.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_brightness.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/audiosend_play.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/audiosend_play.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photocancel.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photocancel.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/publish.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/publish.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/blockpanel.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/blockpanel.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/passcode_delete.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/passcode_delete.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_halfcheck.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_halfcheck.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photo_w.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photo_w.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/delete_reply.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/delete_reply.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_audio.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_audio.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/audiosend_pause.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/audiosend_pause.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/phototime.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/phototime.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/slidearrow.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/slidearrow.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photoload_b_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photoload_b_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/intro3.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/intro3.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/search_share.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/search_share.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_msg_panel_kb.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_msg_panel_kb.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/videotrimmer.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/videotrimmer.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/dialogs_warning.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/dialogs_warning.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_contrast.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_contrast.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_fade.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_fade.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_in_photo_selected.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_in_photo_selected.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_in.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_in.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smiles_grid.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smiles_grid.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_clock.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_clock.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_smile_w.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_smile_w.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_list.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_list.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/addmember.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/addmember.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photocheck.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photocheck.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/attach_location_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/attach_location_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/doc_actions_b_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/doc_actions_b_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/intro6.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/intro6.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/floating3_profile_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/floating3_profile_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pause_g.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pause_g.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/floating3_profile_m.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/floating3_profile_m.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photoload_pressed.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photoload_pressed.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/edit_doneblue.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/edit_doneblue.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/newmsg_divider.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/newmsg_divider.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/notify_members_off.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/notify_members_off.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photoborder.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photoborder.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/docload_b_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/docload_b_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/phone_change.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/phone_change.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/photoload_b.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/photoload_b.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tool_saturation.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tool_saturation.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_storage.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_storage.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/miniplayer_close.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/miniplayer_close.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/location_b.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/location_b.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_back.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_back.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/book_group.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/book_group.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/regbtn2_pressed.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/regbtn2_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/list_focused_holo.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pause_b_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pause_b_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/stickers_back_all.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/stickers_back_all.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_check.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_check.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_lines.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_lines.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/reply.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/reply.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/managers.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/managers.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/circle1.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/circle1.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/book_logo.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/book_logo.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/tip2.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/tip2.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_location.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_location.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/phototime2_b.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/phototime2_b.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/notification.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/notification.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/file_b_load.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/file_b_load.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/doccancel_b_s.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/doccancel_b_s.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/circle.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/circle.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_create.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_create.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/instant_camera.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/instant_camera.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_next.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_next.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/menu_shadow.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/menu_shadow.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/bot_keyboard.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/bot_keyboard.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pl_play.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pl_play.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/ic_ab_fwd_delete.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/ic_ab_fwd_delete.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/msg_halfcheck_w.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/msg_halfcheck_w.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/phototime2.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/phototime2.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/switch_to_on1.9.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/switch_to_on1.9.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/docpause_g.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/docpause_g.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/video_play.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/video_play.png"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/arm/debug/drawable-xxhdpi-v4/pagedown.png",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/drawable-xxhdpi/pagedown.png"
+    }
+]

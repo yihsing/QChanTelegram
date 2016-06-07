@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/androidTest/assets"/><source path="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/generated/assets/shaders/androidTest/arm/debug"/></dataSet><dataSet config="arm"><source path="/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/androidTestArm/assets"/></dataSet></merger>

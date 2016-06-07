@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/media_loading_layout.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/media_loading_layout.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/intro_view_layout.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/intro_view_layout.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/popup_count_layout.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/popup_count_layout.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/hockeyapp_activity_feedback.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/net.hockeyapp.android/HockeySDK/4.0.1/res/layout/hockeyapp_activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/popup_text_layout.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/popup_text_layout.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/video_editor_layout.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/video_editor_layout.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/hockeyapp_activity_login.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/net.hockeyapp.android/HockeySDK/4.0.1/res/layout/hockeyapp_activity_login.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/player_big_notification.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/player_big_notification.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/hockeyapp_activity_expiry_info.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/net.hockeyapp.android/HockeySDK/4.0.1/res/layout/hockeyapp_activity_expiry_info.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/hockeyapp_fragment_update.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/net.hockeyapp.android/HockeySDK/4.0.1/res/layout/hockeyapp_fragment_update.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/popup_image_layout.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/popup_image_layout.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/hockeyapp_view_feedback_message.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/net.hockeyapp.android/HockeySDK/4.0.1/res/layout/hockeyapp_view_feedback_message.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/intro_layout_tablet.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/intro_layout_tablet.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/document_select_layout.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/document_select_layout.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/hockeyapp_activity_update.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/exploded-aar/net.hockeyapp.android/HockeySDK/4.0.1/res/layout/hockeyapp_activity_update.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/player_small_notification.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/player_small_notification.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/popup_audio_layout.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/popup_audio_layout.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/intro_layout.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/intro_layout.xml"
+    },
+    {
+        "merged": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/build/intermediates/res/merged/armv7/release/layout/group_create_bubble.xml",
+        "source": "/Users/Mac/Desktop/TelegramGit/Telegram/TMessagesProj/src/main/res/layout/group_create_bubble.xml"
+    }
+]
